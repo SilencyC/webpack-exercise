@@ -1,0 +1,142 @@
+{
+  "id": "2585674",
+  "name": "纵购官网-pc端",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "20186115",
+      "name": "地址address",
+      "font_class": "dizhiaddress",
+      "unicode": "e7d2",
+      "unicode_decimal": 59346
+    },
+    {
+      "icon_id": "20186125",
+      "name": "电话phone",
+      "font_class": "dianhuaphone",
+      "unicode": "e7dc",
+      "unicode_decimal": 59356
+    },
+    {
+      "icon_id": "20186161",
+      "name": "进入more",
+      "font_class": "jinrumore",
+      "unicode": "e800",
+      "unicode_decimal": 59392
+    },
+    {
+      "icon_id": "20186232",
+      "name": "邮件mail",
+      "font_class": "youjianmail",
+      "unicode": "e847",
+      "unicode_decimal": 59463
+    },
+    {
+      "icon_id": "20186096",
+      "name": "装潢材料classify",
+      "font_class": "zhuanghuangcailiaoclassify",
+      "unicode": "e7bf",
+      "unicode_decimal": 59327
+    },
+    {
+      "icon_id": "20186108",
+      "name": "厨卫classify",
+      "font_class": "chuweiclassify",
+      "unicode": "e7cb",
+      "unicode_decimal": 59339
+    },
+    {
+      "icon_id": "20186121",
+      "name": "电工classify",
+      "font_class": "diangongclassify",
+      "unicode": "e7d8",
+      "unicode_decimal": 59352
+    },
+    {
+      "icon_id": "20186148",
+      "name": "焊接classify",
+      "font_class": "hanjieclassify",
+      "unicode": "e7f3",
+      "unicode_decimal": 59379
+    },
+    {
+      "icon_id": "20186149",
+      "name": "给排水classify",
+      "font_class": "geipaishuiclassify",
+      "unicode": "e7f4",
+      "unicode_decimal": 59380
+    },
+    {
+      "icon_id": "20186153",
+      "name": "机电classify",
+      "font_class": "jidianclassify",
+      "unicode": "e7f8",
+      "unicode_decimal": 59384
+    },
+    {
+      "icon_id": "20186155",
+      "name": "家居classify",
+      "font_class": "jiajuclassify",
+      "unicode": "e7fa",
+      "unicode_decimal": 59386
+    },
+    {
+      "icon_id": "20186162",
+      "name": "劳保classify",
+      "font_class": "laobaoclassify",
+      "unicode": "e801",
+      "unicode_decimal": 59393
+    },
+    {
+      "icon_id": "20186167",
+      "name": "门窗classify",
+      "font_class": "menchuangclassify",
+      "unicode": "e806",
+      "unicode_decimal": 59398
+    },
+    {
+      "icon_id": "20186168",
+      "name": "紧固件classify",
+      "font_class": "jingujianclassify",
+      "unicode": "e807",
+      "unicode_decimal": 59399
+    },
+    {
+      "icon_id": "20186200",
+      "name": "水暖classify",
+      "font_class": "shuinuanclassify",
+      "unicode": "e827",
+      "unicode_decimal": 59431
+    },
+    {
+      "icon_id": "20186218",
+      "name": "五金classify",
+      "font_class": "wujinclassify",
+      "unicode": "e839",
+      "unicode_decimal": 59449
+    },
+    {
+      "icon_id": "20186230",
+      "name": "消防classify",
+      "font_class": "xiaofangclassify",
+      "unicode": "e845",
+      "unicode_decimal": 59461
+    },
+    {
+      "icon_id": "20186231",
+      "name": "油漆刷classify",
+      "font_class": "youqishuaclassify",
+      "unicode": "e846",
+      "unicode_decimal": 59462
+    },
+    {
+      "icon_id": "20186239",
+      "name": "照明classify",
+      "font_class": "zhaomingclassify",
+      "unicode": "e84e",
+      "unicode_decimal": 59470
+    }
+  ]
+}
